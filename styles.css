@@ -2,6 +2,10 @@ h1 {
     color: rgb(255, 0, 0);
  }
 
- p {
-     color: rgb(27, 218, 109); 
+ #first {
+     color: rgb(27, 218, 109); text-decoration: salmon; text-transform: capitalize; text-align: center;
+ }
+
+ #second{
+    color: royalblue; text-align:left;
  }
